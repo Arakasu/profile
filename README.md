@@ -1,4 +1,4 @@
-#　ABout me:
+#　About Me:
 
 Engineer
 
@@ -8,4 +8,4 @@ Tokyo
 
 Qiita: https://qiita.com/Anakas
 
-stackoverflow: https://stackoverflow.com/users/20262219/arakas
+Stackoverflow: https://stackoverflow.com/users/20262219/arakas
