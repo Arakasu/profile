@@ -6,6 +6,6 @@ iOS/Android
 
 Tokyo
 
-Qiita: https://qiita.com/Anakas
+Qiita: https://qiita.com/Armkas
 
-Stackoverflow: https://stackoverflow.com/users/20262219/arakas
+Stackoverflow: https://stackoverflow.com/users/20262219/armkas
